@@ -1,8 +1,8 @@
 # VLM-models-work
 
-## Pet Projects works ##
+## Projects works ##
 
-## 1. Evaluating Few-Shot and Full Supervision BiomedCLIP VLM Performance for Lumbar Stenosis Detection on MRI Datasets ##
+## 1. Evaluating Full Supervision BiomedCLIP VLM Performance for Lumbar Stenosis Detection on MRI Datasets ##
 
 In this project, I am using Vision-Language Models (VLMs) to classify the severity of Lumbar Spine Stenosis (LSS) from MRI scans. Using a dataset of over 8,000 images, I’ve categorized them into different grades ranging from Grade A (mild) to Grade D (severe).
 
